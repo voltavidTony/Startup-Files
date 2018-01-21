@@ -1,0 +1,17 @@
+[
+	{
+		"id": "preferences",
+		"children":
+		[
+			{
+				"caption": "-",
+				"id": "ssfseparator"
+			},
+			{
+				"id": "specstartfiles",
+				"caption": "Set open files as startup files",
+				"command": "set_startup_files"
+			}
+		]
+	}
+]
