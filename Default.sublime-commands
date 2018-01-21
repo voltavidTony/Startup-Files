@@ -1,0 +1,10 @@
+[
+	{
+		"caption": "Startup Files: Open specified files",
+		"command": "open_startup_files"
+	},
+	{
+		"caption": "Startup Files: Set current files as startup files",
+		"command": "set_startup_files"
+	}
+]
